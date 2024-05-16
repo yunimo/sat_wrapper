@@ -1,4 +1,4 @@
-(* 命題論理式の型を定義 *)
+(* 命題論理式の型を定義 *) //
 
 module type Prop_type = sig
 
